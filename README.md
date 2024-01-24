@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @muddledthoughts, a microbiologist of 5 years.
+- 👋 Hi, I’m @muddledthoughts, a biologist of 6 years
 - 👀 I’m interested in ... learning data sciences and bioinformatics
-- 🌱 I’m currently learning ... python, R, SQL
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... R
+- 💞️ I’m looking to collaborate on ... N/A
 - 📫 How to reach me ...
 
 <!---
